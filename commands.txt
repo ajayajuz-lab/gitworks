@@ -3,3 +3,9 @@
 >git status [for listing untracked files]
 
 >git add -A [adding all untracked files to staging area]
+
+>git commit -m "message" [staged files => local repository]
+
+>git clone [exact copy from remote repository to local workspace]
+
+>git pull [changes from remote repository to local workspace]
